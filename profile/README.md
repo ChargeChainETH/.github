@@ -1,6 +1,6 @@
 # ChargeChain
 
-Welcome to ChargeChain! ChargeChain is a decentralized platform aimed at revolutionizing the electric vehicle (EV) charging infrastructure by leveraging blockchain technology. Our goal is to create a sustainable, reliable, and transparent network of charging stations powered by renewable energy.
+Welcome to **ChargeChain**! ChargeChain is a decentralized platform aimed at revolutionizing the electric vehicle (EV) charging infrastructure by leveraging blockchain technology. Our goal is to create a sustainable, reliable, and transparent network of charging stations powered by renewable energy.
 
 ## Project Overview
 
@@ -21,19 +21,17 @@ ChargeChain addresses the growing need for a widespread and efficient EV chargin
 - **Regulatory Support**: Global policies and incentives support the transition to renewable energy and EV adoption.
 - **Community Driven**: ChargeChain empowers users and stakeholders through decentralized governance and transparent operations.
 
-##Contributing
+## Contributing
 We welcome contributions from the community! Please read our Contributing Guide to learn how you can help.
 
-##License
-*ChargeChain* is licensed under the XXX License. See the LICENSE file for more information.
+## License
+**ChargeChain** is licensed under the XXX License. See the LICENSE file for more information.
 
-##Contact
+## Contact
 For more information, visit our website or join our community channels:
 
-Website: www.chargechain.io (TBD)
-
-Discord: ChargeChain Community (TBD)
-
-Twitter: @ChargeChain (TBD)
+- **Website**: www.chargechain.io (TBD)
+- **Discord**: ChargeChain Community (TBD)
+- **Twitter**: @ChargeChain (TBD)
 
 Let's build a sustainable and decentralized future for electric vehicle charging together! 🚗🔋🌍
