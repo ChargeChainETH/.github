@@ -25,13 +25,15 @@ ChargeChain addresses the growing need for a widespread and efficient EV chargin
 We welcome contributions from the community! Please read our Contributing Guide to learn how you can help.
 
 ##License
-ChargeChain is licensed under the XXX License. See the LICENSE file for more information.
+*ChargeChain* is licensed under the XXX License. See the LICENSE file for more information.
 
 ##Contact
 For more information, visit our website or join our community channels:
 
 Website: www.chargechain.io (TBD)
+
 Discord: ChargeChain Community (TBD)
+
 Twitter: @ChargeChain (TBD)
 
 Let's build a sustainable and decentralized future for electric vehicle charging together! 🚗🔋🌍
